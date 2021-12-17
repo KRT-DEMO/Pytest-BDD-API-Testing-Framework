@@ -6,7 +6,7 @@ USER = '/user'
 USER_REPOS = '/user/repos'
 REPOS = '/repos'
 OWNER = '/KTJ-DEMO'
-TOKEN = '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'
+TOKEN = ''
 HEADER = {"accept": "application/vnd.github.v3+json"}
 AUTH = ('Authorization', TOKEN)
 
